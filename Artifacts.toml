@@ -1,0 +1,113 @@
+[[grep]]
+arch = "i686"
+git-tree-sha1 = "a95bff0bcf3e4901340f6e6b25084ccbb49fea0e"
+libc = "musl"
+os = "linux"
+
+    [[grep.download]]
+    sha256 = "fcfc106ce11fa264de231ec19056ee08bbbf76334fcd7361630b921fd0857a4d"
+    url = "https://github.com/JuliaBinaryWrappers/grep_jll.jl/releases/download/grep-v3.4.0+0/grep.v3.4.0.i686-linux-musl.tar.gz"
+[[grep]]
+arch = "aarch64"
+git-tree-sha1 = "807290546e41d46e4c1ab73df527032d19053fdc"
+libc = "musl"
+os = "linux"
+
+    [[grep.download]]
+    sha256 = "6797ad1592ddab3888ea62c5eca3c646cc9fcb2689e87fba00bd403fcdbda7b7"
+    url = "https://github.com/JuliaBinaryWrappers/grep_jll.jl/releases/download/grep-v3.4.0+0/grep.v3.4.0.aarch64-linux-musl.tar.gz"
+[[grep]]
+arch = "i686"
+git-tree-sha1 = "c517fa138e6d6dfa0091b3943e2479c6b1549bbd"
+os = "windows"
+
+    [[grep.download]]
+    sha256 = "6e83285e24add68a97eb4a5ad806fec8e17223ebf20a7ee7f1f09c6bcc2ace47"
+    url = "https://github.com/JuliaBinaryWrappers/grep_jll.jl/releases/download/grep-v3.4.0+0/grep.v3.4.0.i686-w64-mingw32.tar.gz"
+[[grep]]
+arch = "x86_64"
+git-tree-sha1 = "ebedf0d6129b4f96be504ba51f5e81a0b4f88066"
+os = "windows"
+
+    [[grep.download]]
+    sha256 = "cc16523715c157b09f06ceca676ef53328a28105ba9191a2829f8d1f95944b28"
+    url = "https://github.com/JuliaBinaryWrappers/grep_jll.jl/releases/download/grep-v3.4.0+0/grep.v3.4.0.x86_64-w64-mingw32.tar.gz"
+[[grep]]
+arch = "armv7l"
+git-tree-sha1 = "128a6398f09c2da9a72dfa274a0958448d72f0d2"
+libc = "glibc"
+os = "linux"
+
+    [[grep.download]]
+    sha256 = "7edbf81b0ab52e1608b170776e9081ab65bafe0255f64d54709d4842b981d242"
+    url = "https://github.com/JuliaBinaryWrappers/grep_jll.jl/releases/download/grep-v3.4.0+0/grep.v3.4.0.armv7l-linux-gnueabihf.tar.gz"
+[[grep]]
+arch = "armv7l"
+git-tree-sha1 = "306ae2f2fc5919b4ca80608145e8e4ee2b6c086d"
+libc = "musl"
+os = "linux"
+
+    [[grep.download]]
+    sha256 = "5e22b9b858884cecbb166d8067fe25af0e88530f997917cfa163596ad3a48217"
+    url = "https://github.com/JuliaBinaryWrappers/grep_jll.jl/releases/download/grep-v3.4.0+0/grep.v3.4.0.armv7l-linux-musleabihf.tar.gz"
+[[grep]]
+arch = "i686"
+git-tree-sha1 = "416ab9aa8e5489e7a07fe22c1577c71ce37dfb34"
+libc = "glibc"
+os = "linux"
+
+    [[grep.download]]
+    sha256 = "407465f2d63cb9970f1606d49bd406a7825b790c5a894147c2ce2c6943574393"
+    url = "https://github.com/JuliaBinaryWrappers/grep_jll.jl/releases/download/grep-v3.4.0+0/grep.v3.4.0.i686-linux-gnu.tar.gz"
+[[grep]]
+arch = "x86_64"
+git-tree-sha1 = "d7c4fc3e8c72be15fafb9f3503d1adef88ceff54"
+libc = "glibc"
+os = "linux"
+
+    [[grep.download]]
+    sha256 = "ff6bb11148e9b89aefc3533c71d4bbd37e338f3573b2eae87ec059428d744a9f"
+    url = "https://github.com/JuliaBinaryWrappers/grep_jll.jl/releases/download/grep-v3.4.0+0/grep.v3.4.0.x86_64-linux-gnu.tar.gz"
+[[grep]]
+arch = "powerpc64le"
+git-tree-sha1 = "4b41f9857a905f60accfa6278ad536fd55c9efbb"
+libc = "glibc"
+os = "linux"
+
+    [[grep.download]]
+    sha256 = "a87e8c8b94737605148ef2b164eb77c208e9c8bbed8625ff5cd0a65859e243af"
+    url = "https://github.com/JuliaBinaryWrappers/grep_jll.jl/releases/download/grep-v3.4.0+0/grep.v3.4.0.powerpc64le-linux-gnu.tar.gz"
+[[grep]]
+arch = "x86_64"
+git-tree-sha1 = "ba9133b833f196fc45e53b6ce0594061d167331d"
+os = "macos"
+
+    [[grep.download]]
+    sha256 = "7dece40fe4de31fe814d492c5488128d6f6fd1e84d194cba9ee24e443c285c5a"
+    url = "https://github.com/JuliaBinaryWrappers/grep_jll.jl/releases/download/grep-v3.4.0+0/grep.v3.4.0.x86_64-apple-darwin14.tar.gz"
+[[grep]]
+arch = "aarch64"
+git-tree-sha1 = "f89cd665a0c0fed1cbf99b9fe7ab5998c902acec"
+libc = "glibc"
+os = "linux"
+
+    [[grep.download]]
+    sha256 = "b15d0c3edea92f01fd3e68ce1339dff6174899740a40df4d3f5a34f0af206a2c"
+    url = "https://github.com/JuliaBinaryWrappers/grep_jll.jl/releases/download/grep-v3.4.0+0/grep.v3.4.0.aarch64-linux-gnu.tar.gz"
+[[grep]]
+arch = "x86_64"
+git-tree-sha1 = "24bb06d11685dad29de044f6f865f8991dc5a9f8"
+os = "freebsd"
+
+    [[grep.download]]
+    sha256 = "94bfd156a14c86372f76b88dcc418147808a3e12830920953179b6303233fceb"
+    url = "https://github.com/JuliaBinaryWrappers/grep_jll.jl/releases/download/grep-v3.4.0+0/grep.v3.4.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[grep]]
+arch = "x86_64"
+git-tree-sha1 = "d491be6559eac97d838227e63214afe58b41bf94"
+libc = "musl"
+os = "linux"
+
+    [[grep.download]]
+    sha256 = "03c5e204338857cc87ecd853d22198b8fd1b76e827bcfe6a7a534650f290db8c"
+    url = "https://github.com/JuliaBinaryWrappers/grep_jll.jl/releases/download/grep-v3.4.0+0/grep.v3.4.0.x86_64-linux-musl.tar.gz"
